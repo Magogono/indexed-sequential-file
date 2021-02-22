@@ -1,0 +1,50 @@
+ik 50
+p
+ik 20
+p
+ik 52
+p
+ik 25
+p
+ik 22
+p
+ik 60
+p
+ik 62
+p
+ik 64
+p
+ik 67
+p
+ik 70
+p
+ik 61
+p
+ik 77
+p
+ik 73
+p
+ik 79
+p
+ik 74
+p
+d 64
+p
+d 25
+p
+d 73
+p
+i 80 0.3 0.3 0.1 0.1 0.1 0.1
+p
+ik 83
+p
+ik 81
+p
+r 81
+p
+r 67
+p
+u 67 0.1 0.1 0.2 0.2 0.3 0.3
+p
+r 67
+p
